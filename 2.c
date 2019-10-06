@@ -11,9 +11,6 @@ if(n%2==0)
   printf("sum is %d\n",i);
  }
  n++;
-
 }
-
-
 }
 
