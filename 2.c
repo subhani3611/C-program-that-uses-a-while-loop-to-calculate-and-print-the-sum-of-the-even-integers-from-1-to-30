@@ -7,9 +7,9 @@ while(n<=30)
 {
 if(n%2==0)
  {i=i+n;
-  printf("sum is %d\n",i);
- }
+  }
  n++;
 }
+ printf("Sum of Even Numbers from 0-30 is %d\n",i);
 }
 
